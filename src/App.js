@@ -18,7 +18,7 @@ function App() {
       <WorkExp />
       <Contact/>
       <div className="footer pb-3 ms-3">
-            <h4 className="text-center">Made By 😍 Saurabh Bhosale &copy; 2024</h4>
+            <h4 className="text-center">all copyrights are reserved By Saurabh Bhosale &copy; 2024</h4>
         </div>
 
        
